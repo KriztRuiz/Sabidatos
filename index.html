@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
+    <script>
+        if (location.hostname === "sabidatos.com") {
+            location.href = "https://www.sabidatos.com" + location.pathname;
+          }
+    </script>
     <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YETKD46F1G"></script>
 <script>
@@ -9,11 +14,6 @@
   gtag('js', new Date());
 
   gtag('config', 'G-YETKD46F1G');
-</script>
-<script>
-    if (location.hostname === "sabidatos.com") {
-        location.href = "https://www.sabidatos.com" + location.pathname;
-      }
 </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
