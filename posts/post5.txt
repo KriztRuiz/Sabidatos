@@ -1,0 +1,34 @@
+<p>La Notaría Pública Número 128 se encuentra en Sabinas Hidalgo, Nuevo León, y ofrece una amplia gama de servicios notariales con atención personalizada y profesionalismo.</p>
+
+<h3>Información de Contacto</h3>
+<ul>
+  <li><strong>Notario Titular:</strong> Lic. Rodolfo Mireles Garza</li>
+  <li><strong>Dirección:</strong> Pablo de los Santos No. 660 A, Colonia Centro, Sabinas Hidalgo, Nuevo León, CP 65200</li>
+  <li><strong>Teléfono:</strong> +52 824 242 3311</li>
+  <li><strong>Correo Electrónico:</strong> not128@hotmail.com</li>
+  <li><strong>Horario de Atención:</strong>
+    <ul>
+      <li>Lunes a Viernes: 9:00 a.m. - 1:00 p.m. y 3:00 p.m. - 6:00 p.m.</li>
+      <li>Sábado: 9:00 a.m. - 1:00 p.m.</li>
+      <li>Domingo: Cerrado</li>
+    </ul>
+  </li>
+</ul>
+
+<h3>Servicios Ofrecidos</h3>
+<ul>
+  <li>Escrituración de Bienes Inmuebles</li>
+  <li>Testamentos y Sucesiones</li>
+  <li>Redacción y Autorización de Contratos</li>
+  <li>Otorgamiento de Poderes Notariales</li>
+  <li>Constitución y Fusión de Sociedades</li>
+  <li>Actas Notariales</li>
+  <li>Cancelación de Hipotecas y Gravámenes</li>
+  <li>Declaraciones de Herederos</li>
+  <li>Fe de Hechos</li>
+  <li>Legalización de Firmas y Documentos</li>
+  <li>Protocolización de Documentos</li>
+  <li>Subastas Públicas</li>
+</ul>
+
+<p>La Notaría Pública Número 128 ha sido reconocida por su excelente servicio al cliente y eficiencia en la gestión de trámites legales. Los usuarios destacan la amabilidad y profesionalismo del personal, así como la eficacia en la resolución de asuntos legales.</p>

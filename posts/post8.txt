@@ -1,0 +1,35 @@
+<p><em>Tienda departamental en Sabinas Hidalgo, Nuevo León.</em></p>
+
+<h2>¿Quiénes somos?</h2>
+<p><strong>Coppel "La Central"</strong> es una tienda departamental ubicada en Sabinas Hidalgo, Nuevo León. Nos dedicamos a ofrecer una amplia variedad de productos para satisfacer las necesidades de nuestros clientes, brindando calidad y precios accesibles.</p>
+
+<h2>Productos</h2>
+<p>En <strong>Coppel "La Central"</strong> encontrarás diversas categorías de productos, tales como:</p>
+<ul>
+  <li><strong>Electrónica:</strong> televisores, celulares, computadoras y más.</li>
+  <li><strong>Muebles:</strong> salas, recámaras, comedores y otros muebles para el hogar.</li>
+  <li><strong>Moda:</strong> ropa, calzado y accesorios para toda la familia.</li>
+  <li><strong>Línea blanca:</strong> refrigeradores, estufas, lavadoras y otros electrodomésticos.</li>
+  <li><strong>Motocicletas:</strong> variedad de modelos y marcas.</li>
+</ul>
+
+<h2>Horario de atención</h2>
+<ul>
+  <li><strong>Lunes a sábado:</strong> 9:30 a.m. – 7:00 p.m.</li>
+  <li><strong>Domingo:</strong> 9:30 a.m. – 5:30 p.m.</li>
+</ul>
+
+<h2>Dirección</h2>
+<p>Carretera Nacional #750, Colonia Centro, entre calles Regules y Washington, Sabinas Hidalgo, Nuevo León, C.P. 65200, México.</p>
+
+<h2>Contacto</h2>
+<ul>
+  <li><strong>Teléfono:</strong> <a href="tel:+528242420516">(824) 242-0516</a></li>
+</ul>
+
+<h2>Redes sociales</h2>
+<ul>
+  <li><strong>Facebook:</strong> <a href="https://www.facebook.com/Coppel" target="_blank" rel="noopener">Coppel en Facebook</a></li>
+  <li><strong>Twitter:</strong> <a href="https://twitter.com/Coppel" target="_blank" rel="noopener">@Coppel</a></li>
+  <li><strong>Instagram:</strong> <a href="https://www.instagram.com/coppel/" target="_blank" rel="noopener">@coppel</a></li>
+</ul>

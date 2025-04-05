@@ -1,0 +1,42 @@
+<h2>¿Quiénes somos?</h2>
+<p><strong>Sabware Systems</strong> es una empresa ubicada en Sabinas Hidalgo, Nuevo León, dedicada a la venta de computadoras, accesorios tecnológicos y artículos escolares y de oficina. Contamos con dos sucursales para brindar un mejor servicio a nuestros clientes.</p>
+
+<h2>Productos</h2>
+<p>En <strong>Sabware Systems</strong> ofrecemos una amplia gama de productos, incluyendo:</p>
+<ul>
+  <li><strong>Computadoras y accesorios:</strong> laptops, desktops, monitores, teclados, mouse, impresoras y más.</li>
+  <li><strong>Artículos escolares y de oficina:</strong> cuadernos, bolígrafos, calculadoras, carpetas y demás suministros.</li>
+  <li><strong>Accesorios para celulares:</strong> cables, cargadores, fundas y otros complementos.</li>
+  <li><strong>Redes:</strong> routers, switches, cables de red y accesorios relacionados.</li>
+</ul>
+
+<h2>Horario de atención</h2>
+<ul>
+  <li><strong>Lunes a viernes:</strong> 9:00 a.m. – 6:00 p.m.</li>
+  <li><strong>Sábado:</strong> 9:00 a.m. – 2:00 p.m.</li>
+  <li><strong>Domingo:</strong> Cerrado.</li>
+</ul>
+
+<h2>Dirección</h2>
+<p>Contamos con dos sucursales en Sabinas Hidalgo:</p>
+<ul>
+  <li><strong>Sucursal Centro:</strong> Porfirio Diaz No. 803, Colonia Centro, Sabinas Hidalgo, Nuevo León, C.P. 65200.</li>
+  <li><strong>Sucursal Carretera:</strong> Carretera Nacional No. 802, Sabinas Hidalgo, Nuevo León, C.P. 65200.</li>
+</ul>
+
+<h2>Contacto</h2>
+<ul>
+  <li><strong>Teléfonos:</strong>
+    <ul>
+      <li>Sucursal Centro: <a href="tel:+528242420300">(824) 242 0300</a></li>
+      <li>Sucursal Carretera: <a href="tel:+528242427505">(824) 242 7505</a></li>
+    </ul>
+  </li>
+  <li><strong>Correo electrónico:</strong> <a href="mailto:pedidos@sabware.com">pedidos@sabware.com</a></li>
+</ul>
+
+<h2>Redes sociales</h2>
+<ul>
+  <li><strong>Facebook:</strong> <a href="https://www.facebook.com/SabwareSystems/" target="_blank" rel="noopener">Sabware Systems en Facebook</a></li>
+  <li><strong>Pagina web:</strong> <a href="https://www.sabware.com" target="_blank" rel="noopener">Sabware Systems</a></li>
+</ul>

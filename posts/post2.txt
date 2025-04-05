@@ -1,0 +1,20 @@
+<h2>Parque "La Turbina" en Sabinas Hidalgo, Nuevo León</h2>
+
+<h3>Historia y Origen</h3>
+<p>En 1932, se construyó una edificación para albergar dos turbinas importadas de Suiza, con el propósito de generar electricidad aprovechando la corriente del Río Sabinas. Esta infraestructura dio origen a una cascada artificial de aproximadamente 5 metros de altura, que hoy constituye uno de los principales atractivos del parque.</p>
+
+<h3>Características y Atracciones</h3>
+<ul>
+  <li><strong>Áreas Recreativas:</strong> Dispone de palapas con asadores, mesas y juegos infantiles, ideales para reuniones familiares y convivencias.</li>
+  <li><strong>Actividades Acuáticas:</strong> Los visitantes pueden disfrutar de la cascada, así como de actividades como tirolesa que atraviesa el río y paseos en lancha.</li>
+  <li><strong>Infraestructura Adicional:</strong> Cuenta con estacionamiento, fuentes y áreas verdes que complementan la experiencia recreativa.</li>
+</ul>
+
+<h3>Acceso y Tarifas</h3>
+<p>El parque está abierto al público en general con una cuota de entrada de $35 pesos. Para adultos mayores y niños, la entrada tiene un costo de $20 pesos, mientras que los menores de 3 años ingresan de forma gratuita. El horario de acceso es desde las 7 de la mañana.</p>
+
+<h3>Consideraciones de Seguridad</h3>
+<p>Aunque el parque ofrece múltiples atractivos acuáticos, es importante que los visitantes mantengan precauciones, especialmente en áreas de agua profunda. Se recomienda supervisar a niños y personas que no sepan nadar. En abril de 2023, se registró un incidente lamentable donde un menor perdió la vida por sumersión en el parque.</p>
+
+<h3>En Resumen</h3>
+<p>El Parque La Turbina es un destino ideal para quienes buscan disfrutar de la naturaleza, la historia y actividades recreativas en un entorno familiar. Su combinación de belleza natural e infraestructura adecuada lo convierten en un lugar atractivo para locales y turistas por igual.</p>

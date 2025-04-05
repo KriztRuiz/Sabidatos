@@ -1,0 +1,356 @@
+*:focus {
+    outline: 2px dashed #007bff;
+    outline-offset: 3px;
+}
+
+/* Estilos generales */
+body, html {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: #f5f5f5;
+}
+
+/* Header y Navbar */
+header {
+    background: #333;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    position: relative;
+}
+
+/* Estilos barra de búsqueda */
+#search-form {
+    min-width: 50px;
+}
+
+#search-input {
+    width: 100%;
+    padding: 8px 15px;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+}
+
+h1 {
+    margin: 0;
+}
+
+/* Responsive: Mostrar el botón en pantallas pequeñas */
+@media (max-width: 300px) {
+    #menu-btn {
+        display: none;
+    }
+
+    nav {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        right: 0;
+        text-align: center;
+    }
+}
+
+/* Estilos del botón de menú */
+#menu-btn {
+    font-size: 24px;
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+    display: block;
+    position: relative;
+    z-index: 100;
+}
+
+/* Estilos del menú */
+nav {
+    position: absolute;
+    top: 66px;
+    left: 0;
+    background: #444;
+    width: 200px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+    z-index: 100;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: none; /* Oculto por defecto */
+}
+
+nav ul li {
+    border-bottom: 1px solid #555;
+}
+
+nav ul li a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+nav ul li a:hover {
+    background: #666;
+}
+
+/* Clase para mostrar el menú */
+nav.open ul {
+    display: block;
+}
+
+/* Estilos para las tarjetas */
+
+#recent-posts {
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.post-card {
+    background: white;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.post-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+a.post-card img {
+    max-width: 300px;
+    max-height: 165px;}
+
+.post-image {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.post-tags {
+    font-size: 14px;
+    color: #666;
+}
+
+#tagged-posts {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+/* Estilo general para el contenido del post */
+#post-content {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: "Arial", sans-serif;
+    line-height: 1.8;
+}
+
+/* Estilo para el título */
+#post-content h1 {
+    font-size: 2rem;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Estilo para la fecha y etiquetas */
+#post-content p strong {
+    color: #555;
+}
+
+/* Estilo para los párrafos */
+#post-content p {
+    font-size: 1.1rem;
+    color: #444;
+    margin-bottom: 15px;
+}
+
+/* Estilo para las citas */
+#post-content blockquote {
+    background: #f9f9f9;
+    border-left: 5px solid #007bff;
+    padding: 10px 20px;
+    font-style: italic;
+    color: #555;
+    margin: 20px 0;
+}
+
+/* Estilo para las imágenes */
+#post-content img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 20px auto;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Estilo para fragmentos de código */
+#post-content pre {
+    background: #222;
+    color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    overflow-x: auto;
+    font-family: "Courier New", monospace;
+}
+
+/* Resaltar palabras clave dentro de código */
+#post-content code {
+    background: #333;
+    color: #ffcc00;
+    padding: 3px 5px;
+    border-radius: 3px;
+    font-family: "Courier New", monospace;
+}
+
+/* Estilo de los tags */
+.tag {
+    display: inline-block;
+    clip-path: margin-box;
+    background-color: #007bff;
+    color: white;
+    padding: 5px 10px;
+    margin-right: 5px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+
+.tag:hover {
+    background-color: #0056b3;
+}
+
+/* Estilos para la página de contacto */
+#contact-info {
+    margin: 20px 0;
+    text-align: center;
+}
+
+#contact-info p {
+    font-size: 1.1rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+#contact-info ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    font-size: 1rem;
+    color: #555;
+}
+
+#contact-info ul li {
+    margin-bottom: 10px;
+}
+
+#contact-form {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#contact-form .form-group {
+    margin-bottom: 20px;
+}
+
+#contact-form label {
+    display: block;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+#contact-form input,
+#contact-form textarea {
+    width: 95%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+    color: #333;
+}
+
+#contact-form input:focus,
+#contact-form textarea:focus {
+    border-color: #007bff;
+    outline: none;
+}
+
+#contact-form button.submit-btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    transition: background-color 0.3s;
+}
+
+#contact-form button.submit-btn:hover {
+    background-color: #0056b3;
+}
+
+/* Hacer el formulario responsivo */
+@media (max-width: 768px) {
+    
+    #contact-form {
+        padding: 15px;
+    }
+    
+    #contact-form .form-group {
+        margin-bottom: 15px;
+    }
+
+    #contact-form input,
+    #contact-form textarea {
+        font-size: 0.9rem;
+    }
+
+    .post-card {
+        width: 90%; /* para aprovechar bien el espacio disponible */
+        margin: 10px auto;
+    }
+
+    .post-image img {
+        height: auto; /* para mejorar la proporción en móviles */
+    }
+}
+
+#footer-container {
+    width: -webkit-fill-available;
+    bottom: 0;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+}

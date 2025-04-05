@@ -1,0 +1,20 @@
+    <p>El domingo 30 de marzo de 2025, un trágico incidente ocurrió en el Parque Recreativo La Turbina, ubicado en Sabinas Hidalgo, Nuevo León.</p>
+    <p>Un joven de aproximadamente 20 años perdió la vida al ahogarse en el arroyo que atraviesa el parque.</p>
+
+    <h2>Detalles del incidente</h2>
+    <p>Alrededor de las 14:30 horas, el joven identificado como César Suárez López ingresó al agua.</p>
+    <p>Paseantes que se encontraban en el lugar notaron que no emergió y dieron aviso a los servicios de emergencia.</p>
+    <p>Paramédicos de la Cruz Roja confirmaron que el joven ya no presentaba signos vitales.</p>
+    <p>Posteriormente, elementos de Protección Civil Municipal realizaron la extracción del cuerpo.</p>
+    <p><a href="https://www.milenio.com/estados/muere-hombre-ahogado-turbina-sabinas-hidalgo-nuevo-leon?utm_source=chatgpt.com">Fuente: Milenio</a></p>
+
+    <h2>Información adicional sobre el Parque La Turbina</h2>
+    <p>El Parque La Turbina se encuentra en la Carretera a Villaldama, Km. 4, en Sabinas Hidalgo.</p>
+    <p>Este lugar ofrece áreas para acampar, palapas, restaurantes, asadores y mesas de campo.</p>
+    <p>Está ubicado alrededor de los restos de un antiguo edificio que albergaba dos turbinas eléctricas, y la cascada que se forma en el edificio es un atractivo turístico de la región.</p>
+    <p>Es común que familias visiten el parque los fines de semana para disfrutar del clima y nadar en el lugar.</p>
+    <p><a href="https://www.posta.com.mx/nuevo-leon/ahogado-en-parque-la-turbina-en-sabinas-hidalgo/vl2018749?utm_source=chatgpt.com">Fuente: Posta</a></p>
+
+    <h2>Llamado a la precaución</h2>
+    <p>Las autoridades exhortan a la población a extremar precauciones al ingresar a cuerpos de agua naturales, especialmente en áreas recreativas sin vigilancia constante.</p>
+    <p>Se recomienda evitar ingresar al agua sin supervisión y estar atentos a las condiciones del entorno para prevenir accidentes.</p>

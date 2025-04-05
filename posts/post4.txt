@@ -1,0 +1,59 @@
+<h2>Restaurante Los Sillares</h2>
+<p>Ubicado en Sabinas Hidalgo, Nuevo León, el Restaurante Los Sillares ofrece una experiencia culinaria única con auténtica comida mexicana. Fundado en 1992, se ha consolidado como un lugar ideal para disfrutar en familia o con amigos.</p>
+
+<h3>Dirección</h3>
+<p>Calle Agustín de Iturbide 155, Col. Centro, 65200 Sabinas Hidalgo, Nuevo León, México.</p>
+
+<h3>Contacto</h3>
+<ul>
+  <li>Teléfonos: +52 824 242 5698 / +52 824 242 5699</li>
+  <li>Correo electrónico: hola@lossillares.com</li>
+  <li>Sitio web: <a href="https://lossillares.com/">https://lossillares.com/</a></li>
+  <li>Facebook: <a href="https://www.facebook.com/lossillares/">https://www.facebook.com/lossillares/</a></li>
+  <li>Instagram: <a href="https://www.instagram.com/los.sillares/">https://www.instagram.com/los.sillares/</a></li>
+</ul>
+
+<h3>Horario de atención</h3>
+<ul>
+  <li>Lunes, Miércoles, Jueves: 10:00 AM - 11:00 PM</li>
+  <li>Martes: Cerrado</li>
+  <li>Viernes, Domingo: 10:00 AM - 12:00 AM</li>
+  <li>Sábado: 10:00 AM - 1:00 AM</li>
+</ul>
+
+<h3>Servicios</h3>
+<ul>
+  <li>Terraza</li>
+  <li>Pedir para llevar</li>
+  <li>Area de Juegos</li>
+  <li>Comer en el Lugar</li>
+  <li>Pedir a Domicilio</li>
+  <li>Menú variado</li>
+  <li>Bar</li>
+</ul>
+
+<h3>Menú destacado</h3>
+<ul>
+  <li><strong>Botanas</strong>: Aperitivos ideales para comenzar la experiencia gastronómica.</li>
+  <li><strong>A la Carta</strong>: Platos principales que reflejan la riqueza de la cocina mexicana.</li>
+  <li><strong>Hamburguesas</strong>: Opciones jugosas y sabrosas para los amantes de las carnes.</li>
+  <li><strong>Antojitos</strong>: Delicias tradicionales que satisfacen cualquier antojo.</li>
+  <li><strong>Tacos</strong>: Variedad de rellenos y salsas que encantarán tu paladar.</li>
+</ul>
+
+<h3>Especialidades recomendadas</h3>
+<ul>
+  <li><strong>Enchiladas Suizas</strong>: Deliciosas enchiladas bañadas en una suave salsa suiza.</li>
+  <li><strong>Burrito Verde</strong>: Burrito relleno con ingredientes frescos y una salsa verde especial.</li>
+  <li><strong>Sillares Salad</strong>: Ensalada fresca con ingredientes seleccionados y aderezo especial.</li>
+  <li><strong>Carne asada</strong>: Su variedad de carnes asadas son ideales para comer solo o en grupo.</li>
+</ul>
+
+<h3>Celebraciones y eventos</h3>
+<p>En Los Sillares, puedes celebrar ocasiones especiales como cumpleaños, propuestas, citas, reuniones, bodas, bautizos y más. Cuentan con áreas privadas, climatizadas, al aire libre, terraza y juegos para niños, adaptándose a tus necesidades.</p>
+
+<h3>Formas de pago</h3>
+<ul>
+    <li>Efectivo</li>
+    <li>Tarjeta de crédito</li>
+</ul>

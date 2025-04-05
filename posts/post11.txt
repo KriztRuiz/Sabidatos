@@ -1,0 +1,32 @@
+<h2>¿Quiénes somos?</h2>
+<p><strong>Elektra Sabinas Hidalgo</strong> es una tienda departamental que ofrece una amplia variedad de productos y servicios financieros, brindando soluciones accesibles para mejorar la calidad de vida de nuestros clientes.</p>
+
+<h2>Productos y servicios</h2>
+<p>En <strong>Elektra Sabinas Hidalgo</strong> encontrarás diversas categorías de productos y servicios, tales como:</p>
+<ul>
+  <li><strong>Electrónica:</strong> televisores, celulares, computadoras y más.</li>
+  <li><strong>Muebles:</strong> salas, recámaras, comedores y otros muebles para el hogar.</li>
+  <li><strong>Línea blanca:</strong> refrigeradores, estufas, lavadoras y otros electrodomésticos.</li>
+  <li><strong>Motocicletas:</strong> variedad de modelos y marcas.</li>
+  <li><strong>Servicios financieros:</strong> créditos, envíos de dinero y pagos de servicios.</li>
+</ul>
+
+<h2>Horario de atención</h2>
+<ul>
+  <li><strong>Lunes a domingo:</strong> 9:00 a.m. – 9:00 p.m.</li>
+</ul>
+
+<h2>Dirección</h2>
+<p>Carretera Nacional No. 615, Colonia Centro, Sabinas Hidalgo, Nuevo León, C.P. 65200, México.</p>
+
+<h2>Contacto</h2>
+<ul>
+  <li><strong>Teléfono:</strong> <a href="tel:+528242420516">(824) 242 0516</a></li>
+</ul>
+
+<h2>Redes sociales</h2>
+<ul>
+  <li><strong>Facebook:</strong> <a href="https://www.facebook.com/elektrasabinas.hidalgo/" target="_blank" rel="noopener">Elektra Sabinas Hidalgo en Facebook</a></li>
+  <li><strong>Twitter:</strong> <a href="https://twitter.com/ElektraMx" target="_blank" rel="noopener">@ElektraMx</a></li>
+  <li><strong>Instagram:</strong> <a href="https://www.instagram.com/elektramx/" target="_blank" rel="noopener">@elektramx</a></li>
+</ul>

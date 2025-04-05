@@ -1,0 +1,37 @@
+<h2>¿Quiénes somos?</h2>
+<p><strong>Casa Gavi</strong> es una tienda tradicional en Sabinas Hidalgo dedicada a la venta de ropa artesanal, artículos textiles, mercería y accesorios. Ofrecemos productos cuidadosamente seleccionados para quienes buscan prendas únicas y de calidad.</p>
+
+<h2>Productos</h2>
+<p>En <strong>Casa Gavi</strong> puedes encontrar las siguientes categorías de productos:</p>
+<ul>
+  <li><strong>Ropa Artesanal:</strong> gabanes, capas, abrigos, vestidos tradicionales, entre otros.</li>
+  <li><strong>Mercería:</strong> hilos, botones, cintas, estambres y materiales diversos para confección.</li>
+  <li><strong>Artículos Textiles:</strong> telas, mantelería, cortinas y accesorios para el hogar.</li>
+  <li><strong>Renta de Vestidos:</strong> variedad de vestidos formales para eventos especiales.</li>
+</ul>
+
+<h2>Horario de atención</h2>
+<ul>
+  <li><strong>Lunes a Viernes:</strong> 9:00 a.m. – 7:00 p.m.</li>
+  <li><strong>Sábado:</strong> 9:00 a.m. – 3:00 p.m.</li>
+  <li><strong>Domingo:</strong> Cerrado</li>
+</ul>
+
+<h2>Dirección</h2>
+<p>Calle Antonio Solís #605, Colonia Centro, Sabinas Hidalgo, Nuevo León, C.P. 65200, México.</p>
+
+<h2>Contacto</h2>
+<ul>
+  <li><strong>Teléfono:</strong> 
+    <ul>
+      <li><a href="tel:+528242420307">(824) 242 0307</a></li>
+      <li><a href="tel:+528242426596">(824) 242 6596</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2>Redes sociales</h2>
+<ul>
+  <li><strong>Facebook:</strong> <em>(Actualmente no disponible)</em></li>
+  <li><strong>Instagram:</strong> <em>(Actualmente no disponible)</em></li>
+</ul>

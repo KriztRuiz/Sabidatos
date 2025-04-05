@@ -1,0 +1,102 @@
+[
+    {
+        "title": "Elektra Sabinas Hidalgo",
+        "date": "2025-04-03",
+        "content": "posts/post11.txt",
+        "tags": ["tiendas", "electronica", "elektra", "muebles","linea blanca",  "articulos de oficina", "accesorios para celulares", "laptops", "desktops", "monitores", "salas", "recámaras", "comedores", "impresoras",  "cables", "cargadores", "fundas","almacenamiento", "audio", "computadoras", "refrigeradores", "estufas", "lavadoras", "motocicletas", "créditos", "envíos de dinero", "pagos de servicios"],
+        "imagep": "image/elektra.webp",
+        "images": [],
+        "description": "Es una tienda departamental que ofrece una amplia variedad de productos y servicios financieros, brindando soluciones accesibles."
+      },
+    {
+        "title": "Sabware Systems",
+        "date": "2025-04-02",
+        "content": "posts/post10.txt",
+        "tags": ["tiendas", "papeleria", "computadoras", "articulos escolares", "articulos de oficina", "accesorios para celulares", "electronica", "laptops", "desktops", "monitores", "teclados", "mouse", "impresoras", "cuadernos", "bolígrafos", "calculadoras", "carpetas", "cables", "cargadores", "fundas", "routers", "almacenamiento", "audio", "manualidades", "computadoras", "cargadores"],
+        "imagep": "image/sabwaresystems.webp",
+        "images": [],
+        "description": "Tienda de computadoras, accesorios y artículos escolares"
+      },
+    {
+        "title": "Casa Gavi",
+        "date": "2025-03-31",
+        "content": "posts/post9.txt",
+        "tags": ["tiendas", "ropa", "ropa artesanal", "merceria", "articulos textiles", "renta de vestidos", "gabanes", "capas", "abrigos", "vestidos tradicionales", "hilos", "botones", "cintas", "estambres", "materiales de confeccion", "telas", "mantelería", "cortinas", "accesorios para el hogar"],
+        "imagep": "image/casagavi.webp",
+        "images": [],
+        "description": "Es una tienda tradicional dedicada a la venta de ropa artesanal, artículos textiles, mercería y accesorios."
+      },
+    {
+        "title": "Coppel La Central",
+        "date": "2025-03-31",
+        "content": "posts/post8.txt",
+        "tags": ["tiendas", "ropa", "coppel", "ropa para caballero", "tienda departamental", "electrónica", "muebles", "moda", "línea blanca", "motocicletas", "ropa para dama", "ropa para niña", "blusas", "vestidos", "pantalones", "faldas", "conjuntos", "zapatos casuales", "herramientas", "juguetes", "videojuegos", "electrodomesticos", "zapatos formales", "sandalias", "tacones"],
+        "imagep": "image/coppel.webp",
+        "images": [],
+        "description": "Es una tienda departamental, encontrarás diversas categorías de productos, tales como: Electrónica, Muebles, Moda, Línea blanca, Motocicletas."
+      },
+    {
+      "title": "Parque La Turbina",
+      "date": "2025-03-25",
+      "content": "posts/post2.txt",
+      "tags": ["lugares", "cascada", "asadores","palapas", "mesas", "tirolesa", "lanchas", "estacionamiento", "area libre", "comer en el lugar", "area de juegos"],
+      "imagep": "image/laturbina.webp",
+      "images": [],
+      "description": "Destino ideal para disfrutar de la naturaleza, la historia y actividades recreativas en un entorno familiar."
+    },
+    {
+        "title": "Xavy's Grill",
+        "date": "2025-03-26",
+        "content": "posts/post3.txt",
+        "tags": ["restaurantes", "pollo asado", "hamburguesas", "tacos", "servicio a domicilio", "comer en el lugar", "pedir para llevar", "promociones"],
+        "imagep": "image/xavisgrill.webp",
+        "images": [],
+        "description": "Un restaurante especializado en pollos asados, hamburguesas y tacos."
+      },
+      {
+        "title": "Los Sillares",
+        "date": "2025-03-27",
+        "content": "posts/post4.txt",
+        "tags": ["restaurantes", "tacos", "carne asada", "boneless", "hamburguesas", "burritos", "papa asada", "cerveza", "comer en el lugar", "servicio a domicilio", "pedir para llevar", "area de juegos"],
+        "imagep": "image/lossillares.webp",
+        "images": [],
+        "description": "Ofrece una experiencia culinaria única con auténtica comida mexicana."
+      },
+      {
+        "title": "Notaría Pública Número 128",
+        "date": "2025-03-28",
+        "content": "posts/post5.txt",
+        "tags": ["servicios", "notaria", "servicios legales"],
+        "imagep": "image/notariapublica128.webp",
+        "images": [],
+        "description": "ofrece una amplia gama de servicios notariales con atención personalizada y profesionalismo."
+      },
+      {
+        "title": "Fundación y los Primeros Habitantes de Sabinas Hidalgo",
+        "date": "2025-03-29",
+        "content": "posts/post6.txt",
+        "tags": ["historia", "fundacion", "siglo XVII"],
+        "imagep": "image/fundacionsabinashidalgo.webp",
+        "images": [],
+        "description": "El fundador oficial de Sabinas Hidalgo fue Ignacio de Maya, quien en 1693 estableció un asentamiento en la región."
+      },
+      {
+        "title": "Ahogado en La Turbina",
+        "date": "2025-03-30",
+        "content": "posts/post1.txt",
+        "tags": ["noticias", "La Turbina", "ahogado"],
+        "imagep": "image/ahogadolaturbina.webp",
+        "images": [],
+        "description":"Un joven de aproximadamente 20 años perdió la vida al ahogarse en el arroyo que atraviesa el parque."
+      },
+      {
+        "title": "Linda's Boutique",
+        "date": "2025-03-31",
+        "content": "posts/post7.txt",
+        "tags": ["tiendas", "ropa", "moda", "ropa para dama", "ropa para niña", "blusas", "vestidos", "pantalones", "faldas", "conjuntos", "zapatos casuales", "zapatos formales", "sandalias", "tacones"],
+        "imagep": "image/lindasbautique.webp",
+        "images": [],
+        "description":"Tienda de ropa y calzado para dama en Sabinas Hidalgo, Nuevo León."
+      }
+]
+  

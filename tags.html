@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YETKD46F1G"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YETKD46F1G');
+</script>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Posts por Tag</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js"></script>
+    <script src="tags.js"></script>
+    <script defer src="search.js"></script>
+</head>
+<body>
+    <div id="header-container"></div> <!-- Carga el header -->
+    <main>
+        <h2>Publicaciones con el Tag: <span id="tag-name"></span></h2>
+        <section id="tagged-posts" class="post-list"></section>
+    </main>
+    
+    <div id="footer-container"></div> <!-- Carga el footer -->
+</body>
+</html>

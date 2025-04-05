@@ -1,0 +1,32 @@
+<p><em>Tienda de ropa y calzado para dama en Sabinas Hidalgo, Nuevo León.</em></p>
+
+<h2>¿Quiénes somos?</h2>
+<p><strong>Linda's Boutique</strong> es una tienda ubicada en Sabinas Hidalgo, Nuevo León, especializada en moda femenina. Nos dedicamos a la venta de ropa y calzado para dama, ofreciendo las últimas tendencias y estilos para que siempre luzcas a la moda.</p>
+
+<h2>Productos</h2>
+<p>En <strong>Linda's Boutique</strong> encontrarás una amplia variedad de productos para resaltar tu estilo:</p>
+<ul>
+  <li><strong>Ropa para dama:</strong> blusas, vestidos, pantalones, faldas, conjuntos, entre otros.</li>
+  <li><strong>Calzado femenino:</strong> zapatos casuales y formales, sandalias, tacones, entre otros.</li>
+</ul>
+
+<h2>Horario de atención</h2>
+<ul>
+  <li><strong>Lunes a sábado:</strong> 10:00 a 20:00 hrs.</li>
+  <li><strong>Domingo:</strong> Cerrado.</li>
+</ul>
+
+<h2>Dirección</h2>
+<p>Calle Escobedo #310, Colonia Centro, Sabinas Hidalgo, Nuevo León, C.P. 65200, México.</p>
+
+<h2>Contacto</h2>
+<ul>
+  <li><strong>Teléfono:</strong> <a href="tel:+528241048187">(824) 104 8187</a></li>
+  <li><strong>Correo electrónico:</strong> <a href="mailto:lilymaydelagarza@gmail.com">lilymaydelagarza@gmail.com</a></li>
+</ul>
+
+<h2>Redes sociales</h2>
+<ul>
+  <li><strong>Facebook:</strong> <a href="https://www.facebook.com/p/Lindas-Boutique-100063501732779" target="_blank" rel="noopener">Linda's Boutique (Facebook)</a></li>
+  <li><strong>Instagram:</strong> <a href="https://www.instagram.com/lindas_bq/" target="_blank" rel="noopener">@lindas_bq</a></li>
+</ul>
